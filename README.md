@@ -1,4 +1,4 @@
-Week 1 AI Assignment
+Week 1 AI Assignment completed by me
 
 Student Name: Chandrika
 
