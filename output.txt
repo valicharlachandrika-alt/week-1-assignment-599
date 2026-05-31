@@ -1,0 +1,8 @@
+Enter your name: chandrika
+Hello chandrika
+Welcome to Smart Student Assistant
+1. Study Tip
+2. Motivation Quote
+3. Date and Time
+Enter your choice: 1
+Study Tip: Read daily and practice regularly
